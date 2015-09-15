@@ -1,0 +1,40 @@
+{
+  "name": "okcjs-september-2015-lightning-talk",
+  "version": "1.0.0",
+  "description": "Code samples for OKC.js Lightning Talks, Round 10. September 15, 2015.",
+  "main": "index.js",
+  "dependencies": {
+    "JSONStream": "^1.0.4",
+    "dustjs-linkedin": "^2.7.2",
+    "highland": "^2.5.1",
+    "mongodb": "^2.0.42",
+    "ramda": "^0.17.1"
+  },
+  "devDependencies": {
+    "factory_girl": "^0.2.2",
+    "faker": "^3.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nlindley/okcjs-september-2015-lightning-talk.git"
+  },
+  "keywords": [
+    "highland",
+    "highlandjs",
+    "functional",
+    "reactive",
+    "rx",
+    "okcjs",
+    "lightning",
+    "talk"
+  ],
+  "author": "Nicholas Lindley <me@thisoneplace.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nlindley/okcjs-september-2015-lightning-talk/issues"
+  },
+  "homepage": "https://github.com/nlindley/okcjs-september-2015-lightning-talk#readme"
+}

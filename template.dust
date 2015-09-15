@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>OKC.js Lightning Talk, Round 10</title>
+	</head>
+	<body>
+		<h1>People</h1>
+		<table>
+			<thead>
+				<tr>
+					<th>Name</th>
+					<th>Email</th>
+				</tr>
+			</thead>
+			<tbody>
+				{#people}<tr><td>{name}</td><td>{email}</td></tr>{/people}
+			</tbody>
+		</table>
+	</body>
+</html>
