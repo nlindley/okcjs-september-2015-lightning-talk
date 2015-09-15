@@ -18,5 +18,12 @@ Next, install packages and run the demo file with `node`.
 
 ```sh
 $ npm install
-$ node demo-1-map.js
+$ node demo-01-map.js
+```
+
+Since demo 5 is not in JavaScript, you can run it directly or with sh. It uses `pbcopy` and `pbpaste` which are specific to OS X.
+
+```
+$ ./demo-05-pipe.sh
+$ sh demo-05-pipe.sh
 ```
