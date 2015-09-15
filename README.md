@@ -1,6 +1,6 @@
 # Introduction to Functional Reactive Programming with Highland.js
 
-Here are my slides, speaker notes, and demos for my talk given at [OKC.js][] on September 15, 2015.
+Here are my slides, speaker notes, and demos for my talk given at [OKC.js](http://okcjs.com/2015/09/15/2015-9-15-lightning-talks-10/) on September 15, 2015.
 
 ## Running Demos
 
